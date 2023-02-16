@@ -7,6 +7,7 @@ from oci.exceptions import ServiceError
 
 '''
 Get "availabilityDomain", "subnetID", "imageId" from browser request
+Get ssh_authorized_keys
 
 '''
 
