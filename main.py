@@ -26,3 +26,7 @@ while True:
 			print(err)
 			print("========================================")
 		time.sleep(10)
+
+'''
+{"code":"NotAuthenticated","message":"Date 'Fri, 17 Feb 2023 03:47:56 UTC' is not within allowed clock skew. Current 'Fri, 17 Feb 2023 03:53:53 UTC', valid datetime range: ['Fri, 17 Feb 2023 03:48:53 UTC', 'Fri, 17 Feb 2023 03:58:54 UTC']"}
+'''
